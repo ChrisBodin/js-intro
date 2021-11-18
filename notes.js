@@ -42,3 +42,35 @@
 // let - things you want to change
 // const - constant or things you don't want change
 // scope is where ever it is you define it in.
+
+// coding block
+// {
+
+// }
+
+// if () {
+  
+// } else {
+
+// }
+
+// functions - method
+// function displayMenu(num) {
+
+// }
+
+// displayMenu(num)
+
+// displayMenu = (args) => {
+
+// }
+
+// const displayMenu = (args) => {
+
+// } 
+
+// displayMenu(num) 
+
+// V function
+// () => code
+
